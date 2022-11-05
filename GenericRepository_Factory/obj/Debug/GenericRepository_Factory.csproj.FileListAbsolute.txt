@@ -1,0 +1,8 @@
+D:\R52\M2\Projects\5\Exam_03_1270726\GenericRepository_Factory\bin\Debug\GenericRepository_Factory.exe.config
+D:\R52\M2\Projects\5\Exam_03_1270726\GenericRepository_Factory\bin\Debug\GenericRepository_Factory.exe
+D:\R52\M2\Projects\5\Exam_03_1270726\GenericRepository_Factory\bin\Debug\GenericRepository_Factory.pdb
+D:\R52\M2\Projects\5\Exam_03_1270726\GenericRepository_Factory\obj\Debug\GenericRepository_Factory.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\5\Exam_03_1270726\GenericRepository_Factory\obj\Debug\GenericRepository_Factory.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\5\Exam_03_1270726\GenericRepository_Factory\obj\Debug\GenericRepository_Factory.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\5\Exam_03_1270726\GenericRepository_Factory\obj\Debug\GenericRepository_Factory.exe
+D:\R52\M2\Projects\5\Exam_03_1270726\GenericRepository_Factory\obj\Debug\GenericRepository_Factory.pdb
